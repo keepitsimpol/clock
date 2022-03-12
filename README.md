@@ -1,0 +1,1 @@
+This is a sample application written in Go to determine the maximum number of clock combinations that can be created based on the given string array.
